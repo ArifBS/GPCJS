@@ -1,6 +1,5 @@
-# GPCJS
+# GPCJS - javascript port of GPC 
 
-GPC
 GPC stands for General Polygon Clipping , a library written in C to solve polygon operation (difference, intersection, union , and xor). You can visit the project home page. This library is powerfull enough and has been ported to many programming languages.
 
 GPCJS 
