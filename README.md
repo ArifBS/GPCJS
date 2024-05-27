@@ -6,8 +6,6 @@ Visit : http://www.cs.man.ac.uk/~toby/gpc/
 GPCJS (this library)
 This is the javascript version, It based on GPCAS (ActionScript3 version of GPC : https://code.google.com/archive/p/gpcas/).
 
-Here is the demo of GPCJS :
-http://boontaran.com/posts/view/gpcjs_javascript_port_of_gpc
 
 License :
 License of this javascrip library retain the original sotware:
